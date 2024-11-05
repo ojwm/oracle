@@ -1,0 +1,13 @@
+# Example service
+# myservice =
+#     (DESCRIPTION =
+#         (ADDRESS = 
+#             (PROTOCOL = TCP)
+#             (HOST = myhost.example.com)
+#             (PORT = 1521)
+#         )
+#         (CONNECT_DATA =
+#             (SERVER = DEDICATED)
+#             (SERVICE_NAME = myservice)
+#         )
+#     )
