@@ -4,19 +4,20 @@ Useful product documentation and scripts.
 
 ## Database
 
-### Infrastructure
+See the [`database`](./database/) folder.
 
-* [Container Engine](./database/container-engine.md).
+### SQlcl
 
-### PL/SQL
+* See the SQLcl [`README`](./sqlcl/README.md).
 
-* [Collections](./database/collections.md).
+## APEX
 
-### Utilities
+See the [`apex`](./apex/) folder.
 
-* [Logging](./database/logging.md).
+### Universal Theme
 
-## Developer tools
+The [Oracle APEX Universal Theme](https://apex.oracle.com/pls/apex/r/apex_pm/ut/getting-started) app provides documentation and examples of how to use its components.
 
-* [SQLcl](./sqlcl/sqlcl.md).
-* [APEX](./apex/apex.md).
+### `HR` sample schema
+
+The examples in this documentation use the `HR` [sample schema](https://docs.oracle.com/en/database/oracle/oracle-database/21/comsc/installing-sample-schemas.html) provided by Oracle.
