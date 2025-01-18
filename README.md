@@ -14,5 +14,5 @@ Useful product documentation and scripts.
 
 ## Developer tools
 
-* [SQLcl](./sqlcl/README.md).
-* [APEX](./apex/README.md).
+* [SQLcl](./sqlcl/sqlcl.md).
+* [APEX](./apex/apex.md).

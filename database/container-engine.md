@@ -20,4 +20,4 @@ Images can be [built from source](https://github.com/oracle/docker-images) but t
    6c5800535262  docker.io/gvenzl/oracle-xe:slim              8 seconds ago  Up 8 seconds ago  0.0.0.0:1521->1521/tcp  pensive_khorana
    ```
 
-1. Connect to the database, e.g. using [SQLcl](../README.md).
+1. Connect to the database, e.g. using [SQLcl](../sqlcl.md).
