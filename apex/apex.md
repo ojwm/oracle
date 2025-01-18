@@ -20,6 +20,10 @@ The examples in this documentation use the `HR` [sample schema](https://docs.ora
 
 ## Security
 
-* [Administration Services](./security/administration-services.md).
-* [Application Availability](./security/application-availability.md).
+* [Administration services](./security/administration-services.md).
+* [Application availability](./security/application-availability.md).
 * [Vulnerabilities](./security/vulnerabilities.md).
+
+## Tools
+
+* [Application export](./tools/application-export.md).
