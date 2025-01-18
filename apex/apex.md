@@ -20,5 +20,5 @@ The examples in this documentation use the `HR` [sample schema](https://docs.ora
 
 ## Security
 
-* [APEX Administration Services](./security/apex-administration-services.md).
+* [Administration Services](./security/administration-services.md).
 * [Vulnerabilities](./security/vulnerabilities.md).

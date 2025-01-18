@@ -1,6 +1,6 @@
-# APEX Administration Services
+# Administration Services
 
-APEX Administration Services can be disabled for an APEX instance.
+Administration Services can be disabled for an APEX instance.
 
 ```sql
 DECLARE
