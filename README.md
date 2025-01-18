@@ -12,6 +12,10 @@ Useful product documentation and scripts.
 
 * [Collections](./database/collections.md).
 
+### Utilities
+
+* [Logging](./database/logging.md).
+
 ## Developer tools
 
 * [SQLcl](./sqlcl/sqlcl.md).
