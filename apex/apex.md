@@ -6,6 +6,7 @@ The [Oracle APEX Universal Theme](https://apex.oracle.com/pls/apex/r/apex_pm/ut/
 
 ## `HR` sample schema
 
+The examples in this documentation use the `HR` [sample schema](https://docs.oracle.com/en/database/oracle/oracle-database/21/comsc/installing-sample-schemas.html) provided by Oracle.
 
 ## Reports
 
