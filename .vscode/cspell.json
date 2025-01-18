@@ -1,0 +1,33 @@
+{
+    "dictionaryDefinitions": [
+        {
+            "name": "custom-words-oracle",
+            "path": "./.cspell/custom-words-oracle.txt",
+            "addWords": true
+        }
+    ],
+    "language": "en-GB",
+    "languageSettings": [
+        {
+            "languageId": "*",
+            "dictionaries": [
+                "companies",
+                "softwareTerms",
+                "misc",
+                "custom-words-oracle"
+            ]
+        },
+        {
+            "languageId": "markdown",
+            "ignoreRegExpList": [
+                "/^\\s*```[\\s\\S]*?^\\s*```/gm" // Exclude code
+            ]
+        },
+        {
+            "languageId": "sql",
+            "dictionaries": [
+                "sql"
+            ]
+        }
+    ]
+}

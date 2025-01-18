@@ -1,0 +1,9 @@
+ansiconsole
+CLOB
+SERVEROUTPUT
+sqlcl
+SQLFORMAT
+SQLPATH
+SYSDATE
+tnsnames
+VARCHAR
