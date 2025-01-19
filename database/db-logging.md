@@ -1,4 +1,4 @@
-# Logging
+# Database Logging
 
 ## SQLcl & SQL*Plus
 

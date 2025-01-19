@@ -1,4 +1,4 @@
-# JSON Web Token (JWT)
+# APEX JSON Web Token (JWT)
 
 <https://docs.oracle.com/en/database/oracle/apex/24.1/aeapi/APEX_JWT.html>.
 

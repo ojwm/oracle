@@ -1,4 +1,4 @@
-# Navigation Menu
+# APEX Navigation Menu
 
 The navigation menu is the menu that is revealed by the [hamburger button](https://en.wikipedia.org/wiki/Hamburger_button).
 

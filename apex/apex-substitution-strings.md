@@ -1,4 +1,4 @@
-# Substitution Strings
+# APEX Substitution Strings
 
 <https://docs.oracle.com/en/database/oracle/apex/24.1/htmdb/using-substitution-strings.html>
 

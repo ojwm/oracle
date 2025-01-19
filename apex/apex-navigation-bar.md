@@ -1,4 +1,4 @@
-# Navigation Bar
+# APEX Navigation Bar
 
 The navigation bar is the top application bar that contains the [hamburger button](https://en.wikipedia.org/wiki/Hamburger_button) and application name.
 

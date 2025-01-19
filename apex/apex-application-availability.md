@@ -1,4 +1,4 @@
-# Application Availability
+# APEX Application Availability
 
 <https://docs.oracle.com/en/database/oracle/apex/24.1/aeapi/APEX_APPLICATION_ADMIN.SET_APPLICATION_STATUS-Procedure.html>.
 
