@@ -71,3 +71,27 @@ PL/SQL procedure successfully completed.
 ```sql
 DROP PACKAGE http_test_pkg;
 ```
+
+## Variable-sized arrays (`varray`)
+
+Built in Oracle Data Cartridge Interface (ODCI) `varray`s can be used in SQL and PL/SQL.
+
+* <https://docs.oracle.com/en/database/oracle/oracle-database/23/addci/extensibility-constants-types-and-mappings.html>.
+
+```sql
+DECLARE
+    v_varray CONSTANT sys.ODCIVarchar2List := sys.ODCIVarchar2List('one', 'two', 'three');
+    v_exists_flag CHAR(1) := 'N';
+BEGIN
+    SELECT 'Y'
+    INTO v_exists_flag
+    FROM dual
+    WHERE '&value' IN (
+        SELECT column_value
+        FROM TABLE(v_varray)
+    );
+    --
+    dbms_output.put_line(v_exists_flag);
+END;
+/
+```
