@@ -14,6 +14,12 @@ See the [`database`](./database/) folder.
 
 See the [`apex`](./apex/) folder.
 
+### Documentation
+
+[Oracle APEX](https://docs.oracle.com/en/database/oracle/apex/24.1/index.html).\
+[API Reference](https://docs.oracle.com/en/database/oracle/apex/24.1/aeapi).\
+[JavaScript API Reference](https://docs.oracle.com/en/database/oracle/apex/24.1/aexjs/index.html).
+
 ### Universal Theme
 
 The [Oracle APEX Universal Theme](https://apex.oracle.com/pls/apex/r/apex_pm/ut/getting-started) app provides documentation and examples of how to use its components.
