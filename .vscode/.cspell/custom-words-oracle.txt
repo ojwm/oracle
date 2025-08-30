@@ -1,5 +1,6 @@
 ansiconsole
 CLOB
+ORDS
 SERVEROUTPUT
 sqlcl
 SQLFORMAT
